@@ -1,6 +1,5 @@
 First GO project using JWT, Gin and Gorm
 
-https://www.youtube.com/watch?v=ma7rUS_vW9M&ab_channel=CodingwithRobby
 
 go get -u gorm.io/gorm
 go get -u gorm.io/driver/postgres
